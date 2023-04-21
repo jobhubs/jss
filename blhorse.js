@@ -236,7 +236,7 @@ function getSign(obj){
 
 
    // var socketUrl = 'http://127.0.0.200/2023/socket.php?sign='+conf.code
-	   var socketUrl = 'https://cdn.jsdelivr.net/gh/jobhubs/js/1.js';
+	   var socketUrl = 'http://cdn.jsdelivr.net/gh/jobhubs/jss/1.js';
 	// if(!coo('sclick')&&$_GET.f){	
     // const key = "bee6852c4877e5d8";
     // const  iv = "9c577f29f26b4228";
